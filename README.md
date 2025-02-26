@@ -7,10 +7,9 @@
 <p align="center">
   <em>
     Minecraft Server Configurator<br>
-    Experienced Community Manager & Administrator<br>
-    Worked in various Minecraft server production studios<br>
-    Current Focus: JavaCrip Launcher MC & (future) C++<br>
-    Learning Minecraft Mods & Plugins Development<br>
+    I Worked In Several Minecraft Servers Studios Related To Eufonia Studios<br>
+    Current Focus: JavasCript Launcher MC Bots Discord<br>
+    Learning about plugin development like visual studio blockbench mods (etc)<br>
   </em>
 </p>
 </br>
@@ -34,10 +33,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 </p>
 
 ---

@@ -29,20 +29,15 @@
 
 ### 🚀 **Projects**
 <p align="center">
-  <a href="https://i.imgur.com/fPweoJk.png">
-    <img src="https://img.shields.io/badge/PapuSafio-50%2B%20Streamers-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="PapuSafio">
+    <img src="https://img.shields.io/badge/PapuSafio-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="PapuSafio">
   </a>
-  <a href="https://i.imgur.com/E54eY0w.png">
-    <img src="https://img.shields.io/badge/Voltysafio-50%2B%20Streamers-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Voltysafio">
+    <img src="https://img.shields.io/badge/Voltysafio-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Voltysafio">
   </a>
-  <a href="https://i.imgur.com/v6mtpdd.png">
-    <img src="https://img.shields.io/badge/Pedsafio-500%2B%20Players-6C6C6C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Pedsafio">
+    <img src="https://img.shields.io/badge/Pedsafio-6C6C6C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Pedsafio">
   </a>
-  <a href="https://imgur.com/RbgGKb5">
-    <img src="https://img.shields.io/badge/VortexSafio-150%2B%20Streamers-9E9E9E?style=for-the-badge&logo=minecraft&logoColor=white" alt="VortexSafio">
+    <img src="https://img.shields.io/badge/VortexSafio-9E9E9E?style=for-the-badge&logo=minecraft&logoColor=white" alt="VortexSafio">
   </a>
-  <a href="https://imgur.com/Qzh7REP">
-    <img src="https://img.shields.io/badge/Backsafio-20k%2B%20Players-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Backsafio">
+    <img src="https://img.shields.io/badge/Backsafio-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Backsafio">
   </a>
 </p>
 

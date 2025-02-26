@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/ec/50/50/ec5050513662dd59af21b35967a0dc18.gif" width="30">
+  <img src="https://www.gifss.com/banderas/peru/images/peru-bandera-2.gif" width="30">
   AlexPSMC
-  <img src="https://i.pinimg.com/originals/ec/50/50/ec5050513662dd59af21b35967a0dc18.gif" width="30">
+  <img src="https://www.gifss.com/banderas/peru/images/peru-bandera-2.gif" width="30">
 </h1>
 </br>
 <p align="center">

@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.pinimg.com/originals/ec/50/50/ec5050513662dd59af21b35967a0dc18.gif" width="30">
-  Manuel
+  AlexPSMC
   <img src="https://i.pinimg.com/originals/ec/50/50/ec5050513662dd59af21b35967a0dc18.gif" width="30">
 </h1>
 </br>
@@ -9,7 +9,7 @@
     Minecraft Server Configurator<br>
     Experienced Community Manager & Administrator<br>
     Worked in various Minecraft server production studios<br>
-    Current Focus: Java & (future) C++<br>
+    Current Focus: JavaCrip Launcher MC & (future) C++<br>
     Learning Minecraft Mods & Plugins Development<br>
   </em>
 </p>
@@ -45,25 +45,19 @@
 ### 🚀 **Projects**
 <p align="center">
   <a href="https://i.imgur.com/fPweoJk.png">
-    <img src="https://img.shields.io/badge/NexSafio-50%2B%20Streamers-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="NexSafio">
+    <img src="https://img.shields.io/badge/PapuSafio-50%2B%20Streamers-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="PapuSafio">
   </a>
   <a href="https://i.imgur.com/E54eY0w.png">
-    <img src="https://img.shields.io/badge/DeathLand-50%2B%20Streamers-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="DeathLand">
+    <img src="https://img.shields.io/badge/Voltysafio-50%2B%20Streamers-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Voltysafio">
   </a>
   <a href="https://i.imgur.com/v6mtpdd.png">
-    <img src="https://img.shields.io/badge/LayCraft-500%2B%20Players-6C6C6C?style=for-the-badge&logo=minecraft&logoColor=white" alt="LayCraft">
+    <img src="https://img.shields.io/badge/Pedsafio-500%2B%20Players-6C6C6C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Pedsafio">
   </a>
   <a href="https://imgur.com/RbgGKb5">
-    <img src="https://img.shields.io/badge/BROSAFIO-150%2B%20Streamers-9E9E9E?style=for-the-badge&logo=minecraft&logoColor=white" alt="BROSAFIO">
+    <img src="https://img.shields.io/badge/VortexSafio-150%2B%20Streamers-9E9E9E?style=for-the-badge&logo=minecraft&logoColor=white" alt="VortexSafio">
   </a>
   <a href="https://imgur.com/Qzh7REP">
-    <img src="https://img.shields.io/badge/Saber%20Showdown-20k%2B%20Players-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Saber Showdown">
-  </a>
-  <a href="https://imgur.com/a/6W36Qoa">
-    <img src="https://img.shields.io/badge/Volty%20Studio-1.3k%2B%20Members-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Volty Studio">
-  </a>
-  <a href="https://discord.gg/NhrUYUDZ8m">
-    <img src="https://img.shields.io/badge/AimStudio-CEO%20%26%20Developer-6C6C6C?style=for-the-badge&logo=discord&logoColor=white" alt="AimStudio">
+    <img src="https://img.shields.io/badge/Backsafio-20k%2B%20Players-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Backsafio">
   </a>
 </p>
 

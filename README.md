@@ -10,18 +10,6 @@
     I Worked In Several Minecraft Servers Studios Related To Eufonia Studios<br>
     Current Focus: JavasCript Launcher MC Bots Discord<br>
     Learning about plugin development like visual studio blockbench mods (etc)<br>
-  </em>
-</p>
-</br>
-<p align="center">
-  <a href="https://x.com/manolopro3333">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.youtube.com/@manolopro3332/featured">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://imgur.com/kPr37VG">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 

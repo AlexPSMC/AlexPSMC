@@ -26,19 +26,3 @@
 </p>
 
 ---
-
-### 🚀 **Projects**
-<p align="center">
-    <img src="https://img.shields.io/badge/PapuSafio-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="PapuSafio">
-  </a>
-    <img src="https://img.shields.io/badge/Voltysafio-4A4A4A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Voltysafio">
-  </a>
-    <img src="https://img.shields.io/badge/Pedsafio-6C6C6C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Pedsafio">
-  </a>
-    <img src="https://img.shields.io/badge/VortexSafio-9E9E9E?style=for-the-badge&logo=minecraft&logoColor=white" alt="VortexSafio">
-  </a>
-    <img src="https://img.shields.io/badge/Backsafio-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Backsafio">
-  </a>
-</p>
-
----

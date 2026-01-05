@@ -7,8 +7,8 @@
 <p align="center">
   <em>
     Minecraft Server Configurator<br>
-    I Worked In Several Minecraft Servers Studios Related To Eufonia Studios<br>
-    Current Focus: JavasCript Launcher MC Bots Discord<br>
+    I Worked In Several Minecraft Servers<br>
+    Current Focus: JavasCript Bots Discord<br>
     Learning about plugin development like visual studio blockbench mods (etc)<br>
   </a>
 </p>
